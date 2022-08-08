@@ -140,7 +140,7 @@ runtest() {
 		# speed_test '24012' '内蒙古呼和浩特' '电信'
 		# speed_test '27377' '北京５Ｇ' '电信'
 		# speed_test '29026' '四川成都' '电信'
-		# speed_test '29071' '四川成都' '电信'
+		 speed_test '29071' '四川成都' '电信'
 		 speed_test '17145' '安徽合肥5G' '电信'
 		# speed_test '27594' '广东广州５Ｇ' '电信'
 		# speed_test '27810' '广西南宁' '电信'
